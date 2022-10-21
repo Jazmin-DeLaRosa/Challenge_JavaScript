@@ -35,7 +35,7 @@ console.log(subString("456", "78492621") != -1); //False
 //#3 Funcion que retorna un Json
 
 
-//#4 Funcion que retorna un numero mas grande que todo el arreglo 
+//#4 Funcion que retorna elnumero mas grande del arreglo 
 let arr = [7, 1, 56, 89, 25, 60, 99];
 temp = 0;
 
